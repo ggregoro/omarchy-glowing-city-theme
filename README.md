@@ -95,14 +95,14 @@ systemctl --user disable --now glowing-city-time.timer
 ## Install
 
 ```bash
-omarchy theme install https://github.com/ggregoro/glowing-city
+omarchy theme install https://github.com/ggregoro/omarchy-glowing-city-theme
 omarchy theme set "Glowing City"
 ```
 
 Or clone it manually:
 
 ```bash
-git clone https://github.com/ggregoro/glowing-city \
+git clone https://github.com/ggregoro/omarchy-glowing-city-theme \
   ~/.config/omarchy/themes/glowing-city
 omarchy theme set glowing-city
 ```
