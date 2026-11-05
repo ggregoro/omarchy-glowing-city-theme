@@ -127,6 +127,20 @@ Edit `colors.toml`, then re-run `omarchy theme set glowing-city`.
 Everything else — terminal colours, Hyprland borders, the bar, btop,
 Neovim — regenerates from it.
 
+## How this was made
+
+This project is AI-assisted. The idea, the testing and the decisions are
+mine; the code and most of the documentation were written by Claude,
+Anthropic's AI assistant, using Claude Code. I tested it on my own
+machines before publishing, but I'm not a professional software
+developer, so please read any script before you run it, and open an
+issue if something is wrong.
+
+My own work here is under the license in `LICENSE`. Third-party material
+(wallpapers, fonts, code from other projects) keeps its own license and
+is credited in this README where the source is known. If something isn't
+credited correctly, open an issue and I'll fix or remove it.
+
 ## Credits & licensing
 
 The original green wallpaper comes from the Osaka Jade theme that ships
